@@ -1,6 +1,5 @@
-# Hi, I'm Matei
-
-**Data Engineering & Analytics** | Python · SQL · Pipelines · BI  
+![Matei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BejenaruIoanMatei&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BejenaruIoanMatei&layout=compact&theme=dark&hide_border=true)
 
 ## Core Language
 
