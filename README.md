@@ -52,16 +52,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BejenaruIoanMatei&theme=github_dark" />
-<!-- Bara de activitate pe luni -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BejenaruIoanMatei&theme=github_dark" />
-
-<!-- Detalii profil complet (mai mare, combina mai multe stats) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BejenaruIoanMatei&theme=github_dark" />
 
-<!-- Commits per limbaj -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BejenaruIoanMatei&theme=github_dark" />
-[![GitHub Streak](https://streak-stats.demolab.com?user=BejenaruIoanMatei&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![Visitors](https://komarev.com/ghpvc/?username=BejenaruIoanMatei&color=blue&style=flat)
-[![trophy](https://github-profile-trophy.vercel.app/?username=BejenaruIoanMatei&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-![Snake animation](https://raw.githubusercontent.com/BejenaruIoanMatei/BejenaruIoanMatei/output/github-contribution-grid-snake-dark.svg)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=BejenaruIoanMatei&theme=dark&hide_border=true)
