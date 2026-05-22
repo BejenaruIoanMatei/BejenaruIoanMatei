@@ -54,4 +54,4 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BejenaruIoanMatei&theme=github_dark" />
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=BejenaruIoanMatei&theme=dark&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BejenaruIoanMatei&theme=github_dark" />
