@@ -52,6 +52,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BejenaruIoanMatei&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BejenaruIoanMatei&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BejenaruIoanMatei&theme=tokyonight" />
